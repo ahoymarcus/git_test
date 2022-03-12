@@ -1,3 +1,3 @@
 # git_test
-Initiating if The Odin Project
+Initiating with The Odin Project
 Hello Odin
